@@ -11,7 +11,7 @@ nav ul li {
     background-color: #f89;
 }
 main h1 {
-    clear; both;
+    clear: both;
 }
 main img {
     float: right;
