@@ -1,10 +1,9 @@
 * { -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box; box sizing:display: 
-    border-box; }
+    -webkit-box-sizing: border-box; box-sizing: display;
  
  /* body rules here */
  body  {
-    font-family: verdana;
+    font-family: verdana:
     font-size: 16px; 
  }
 
